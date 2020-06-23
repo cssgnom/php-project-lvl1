@@ -10,6 +10,7 @@
             "email": "cssgnom@gmail.com"
         }
     ],
+    "license": "MIT",
     "scripts": {
         "phpcs": "phpcs"
     },
