@@ -3,4 +3,5 @@ logs
 *.swo
 *.swp
 *.cache
+.editorconfig
 build
