@@ -1,5 +1,5 @@
 {
-    "name": "cssgnom/php-project-1",
+    "name": "cssgnom/php-project-lvl1",
     "bin":[
 	"bin/brain-games"	    
     ],
@@ -9,8 +9,9 @@
             "name": "cssgnom",
             "email": "cssgnom@gmail.com"
         }
-    ],
-    "license": "MIT",
+    ], 
+  "description": "hexlet php project",
+  "license": "MIT",
     "scripts": {
         "phpcs": "phpcs"
     },
